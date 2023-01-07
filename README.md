@@ -1,7 +1,8 @@
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="200"/>
 </div>
-<br></br>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ana-urumovska/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,6 +11,7 @@
 
 ---
 
+### Learning
 - Front-end Web Development
 - Salesforce Development
 
@@ -29,16 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anarhitetka&theme=buefy&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anarhitetka&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Repositories
+### Repos
 <div>
   <a href="https://github.com/kolaroski/tango-music" target="blank">
     Tango Music Project (React+TypeScript)
@@ -50,7 +43,16 @@
   </a>
 </div>
 <div>
-  <a href="https://github.com/anarhitetka/lwc-notes-component" target="blank">
+   <a href="https://github.com/anarhitetka/lwc-notes-component" target="blank">
     Lightning Web Component | Salesforce
   </a>
 </div>
+
+
+---
+
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anarhitetka&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anarhitetka&theme=buefy&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
