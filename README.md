@@ -32,14 +32,15 @@
 </div>
 
 ### Repos
-<div>
-  <a href="https://github.com/kolaroski/tango-music" target="blank">
-    Tango Music Project (React+TypeScript)
-  </a>
-</div>
+
 <div>
   <a href="https://github.com/anarhitetka/nfl-app" target="blank">
     NFL App (React)
+  </a>
+</div>
+<div>
+  <a href="https://github.com/kolaroski/tango-music" target="blank">
+    Tango Music Project (React+TypeScript)
   </a>
 </div>
 <div>
