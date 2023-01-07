@@ -31,7 +31,26 @@
 
 ---
 
+### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anarhitetka&theme=buefy&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anarhitetka&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### Repositories
+<div>
+  <a href="https://github.com/kolaroski/tango-music" target="blank">
+    Tango Music Project (React+TypeScript)
+  </a>
+</div>
+<div>
+  <a href="https://github.com/anarhitetka/nfl-app" target="blank">
+    NFL App (React)
+  </a>
+</div>
+<div>
+  <a href="https://github.com/anarhitetka/lwc-notes-component" target="blank">
+    Lightning Web Component | Salesforce
+  </a>
+</div>
