@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="200"/>
 </div>
-
+<br></br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ana-urumovska/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,10 +10,6 @@
 </div>
 
 ---
-
-### Learning
-- Front-end Web Development
-- Salesforce Development
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -31,21 +27,30 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
+### Learning
+- Front-end Web Development
+- Salesforce Development
+
 ### Repos
 
-<div>
+- <div>
+  :rugby_football:
   <a href="https://github.com/anarhitetka/nfl-app" target="blank">
-    NFL App (React)
+    NFL App | React
   </a>
 </div>
-<div>
+
+- <div>
+  :musical_note:
   <a href="https://github.com/kolaroski/tango-music" target="blank">
-    Tango Music Project (React+TypeScript)
+    Tango Music Project | React & TypeScript
   </a>
 </div>
-<div>
+
+- <div>
+  :clipboard:
    <a href="https://github.com/anarhitetka/lwc-notes-component" target="blank">
-    Lightning Web Component | Salesforce
+    Notes App | Lightning Web Components | Salesforce
   </a>
 </div>
 
