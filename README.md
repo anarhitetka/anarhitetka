@@ -57,7 +57,7 @@
 - <div>
   :rugby_football:
   <a href="https://github.com/anarhitetka/svelte-simple-sample" target="blank">
-    Svelte Simple Sample
+    Svelte Simple Sample | NFL
   </a>
 </div>
 
