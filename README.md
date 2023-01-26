@@ -65,8 +65,8 @@
 ---
 
 ### Stats
-<!---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anarhitetka&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
---->
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anarhitetka&theme=buefy&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
