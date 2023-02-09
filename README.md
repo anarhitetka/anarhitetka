@@ -34,6 +34,20 @@
 ### Repos
 
 - <div>
+  :shopping:
+  <a href="https://github.com/anarhitetka/react-typescript__shopping-cart">
+    Shopping App | React & Typescript
+  </a>
+</div>
+
+- <div>
+  :rugby_football:
+  <a href="https://github.com/anarhitetka/svelte-simple-sample" target="blank">
+    Svelte Simple Sample | NFL
+  </a>
+</div>
+
+- <div>
   :rugby_football:
   <a href="https://github.com/anarhitetka/nfl-app" target="blank">
     NFL App | React
@@ -51,13 +65,6 @@
   :clipboard:
    <a href="https://github.com/anarhitetka/lwc-notes-component" target="blank">
     Notes App | Lightning Web Components | Salesforce
-  </a>
-</div>
-
-- <div>
-  :rugby_football:
-  <a href="https://github.com/anarhitetka/svelte-simple-sample" target="blank">
-    Svelte Simple Sample | NFL
   </a>
 </div>
 
