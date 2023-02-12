@@ -29,14 +29,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
+### GitHub Pages
 
+- <div>
+  :rugby_football:
+  <a href="https://anarhitetka.github.io/nfl-app/">
+    NFL App Live on anarhitetka.github.io/nfl-app/
+  </a>
+  </div>
 
 ### Repos
 
 - <div>
-  :shopping:
-  <a href="https://github.com/anarhitetka/react-typescript__shopping-cart">
-    Shopping App | React & Typescript
+  :rugby_football:
+  <a href="https://github.com/anarhitetka/nfl-app" target="blank">
+    NFL App | React
   </a>
 </div>
 
@@ -48,9 +55,9 @@
 </div>
 
 - <div>
-  :rugby_football:
-  <a href="https://github.com/anarhitetka/nfl-app" target="blank">
-    NFL App | React
+  :shopping:
+  <a href="https://github.com/anarhitetka/react-typescript__shopping-cart">
+    Shopping App | React & Typescript
   </a>
 </div>
 
