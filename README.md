@@ -33,7 +33,7 @@
 
 - <div>
   :rugby_football:
-  <a href="https://anarhitetka.github.io/nfl-app/">
+  <a href="https://anarhitetka.github.io/nfl-app/" target="blank">
     NFL App Live on anarhitetka.github.io/nfl-app/
   </a>
   </div>
@@ -56,7 +56,7 @@
 
 - <div>
   :shopping:
-  <a href="https://github.com/anarhitetka/react-typescript__shopping-cart">
+  <a href="https://github.com/anarhitetka/react-typescript__shopping-cart" target="blank">
     Shopping App | React & Typescript
   </a>
 </div>
